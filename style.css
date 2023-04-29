@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(235, 227, 233);
+}
+.container{
+    margin: 150px auto;
+    width: 1500px;
+    height: 200px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(253, 253, 253);
+}
+img{
+    float:right;
+    width: 200px;
+    height: 200px;
+    padding: 0 10px 0 0;
+}
+.text{
+    text-align: center center;
+    padding-left: 20px;
+
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+    color: dodgerblue;
+}
+h5{
+    font-size: 20px;
+}   
+table{
+        font-size:large;
+}
+th{
+    background-color: lightslategrey;
+    
+}
+p{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+    font-size: 25px;
+}
+hr{
+    color: dodgerblue;
+}
